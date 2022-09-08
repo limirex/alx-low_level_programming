@@ -3,7 +3,7 @@
 /**
  * main - Prints quote to the standard error
  *
- * Return: zero on success
+ * Return: 1 or ANYTHING
  *
  */
 int main(void)
