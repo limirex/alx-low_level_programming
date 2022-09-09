@@ -1,10 +1,9 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 
 /**
  * main - Prints alphabet
- * @void: Empty parameter list for main.
  *
  * Description: Prints the alphabet in lower and upper case
  * Can only use putchar
