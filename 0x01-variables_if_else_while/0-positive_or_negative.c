@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - prints sign of negative/positive number
+ * main - printf sign of negative/positive number
  *
  * Description: this if/else statements declare the sign (positive
  * or negative) of a random number. it also tells if the value if zero.
