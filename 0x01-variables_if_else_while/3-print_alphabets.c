@@ -12,14 +12,21 @@
 */
 int main(void)
 {
-char i;
-putchar("Lower case characters:\n");
-for (i = 'a'; i <= 'z'; i++)
-putchar("%c ", i);
+char letter = 'a';
 
-putchar("\n\nCapital (upper) case characters:\n");
-for (i = 'A'; i <= 'Z'; i++)
-putchar("%c ", i);
+while (letter <= 'z')
+{
+putchar(letter);
+letter++;
+}
 
+letter = 'A';
+
+while (letter <= 'Z')
+{
+putchar(letter);
+letter++;
+}
+putchar('\n');
 return (0);
 }
