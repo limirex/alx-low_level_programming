@@ -4,7 +4,6 @@
 
 /**
  * main - Prints alphabet
- * @void: Empty parameter list for main.
  *
  * Description: Prints the alphabet in lower case
  * Skip q and e
