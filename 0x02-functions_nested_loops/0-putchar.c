@@ -8,7 +8,7 @@
  * return - 0 for success
  */
 
-int main(void)
+int main()
 {
 
 _putchar('_');
