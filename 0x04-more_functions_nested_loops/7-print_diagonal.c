@@ -8,7 +8,7 @@
 
 void print_diagonal(int n)
 {
-while (n >= 1)
+if (n = 95)
 {
 _putchar('\\');
 n--;
