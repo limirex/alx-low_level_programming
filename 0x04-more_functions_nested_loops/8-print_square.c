@@ -1,8 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_square - print a square of input size
  * @size: demensions of square
+ *
  * Return: nothing
  **/
 
