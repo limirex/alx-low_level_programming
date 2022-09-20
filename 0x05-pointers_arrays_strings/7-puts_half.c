@@ -6,7 +6,7 @@
  *
  * Description: prints second half of string
  * Return: nothing
- **/
+ */
 
 void puts_half(char *str)
 {
