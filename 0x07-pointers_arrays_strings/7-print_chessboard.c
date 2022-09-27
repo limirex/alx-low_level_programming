@@ -5,7 +5,7 @@
  * @a: array of board with values
  * Description: uses input a to print a chessboard
  * Return: nothing
- **/
+ */
 
 void print_chessboard(char (*a)[8])
 {
