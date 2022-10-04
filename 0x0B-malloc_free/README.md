@@ -1,0 +1,1 @@
+this directory contains all the tasks i've been given for malloc in c programmming
