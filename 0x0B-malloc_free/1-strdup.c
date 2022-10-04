@@ -17,7 +17,7 @@ unsigned int i;
 if (str == NULL)
 return (NULL);
 
-dest = malloc(sizeof(char) * (char));
+dest = malloc(sizeof(char) * (char) + 1);
 
 if (dest == NULL)
 return (NULL);
